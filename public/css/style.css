@@ -1,0 +1,11 @@
+.navbar-brand img {
+    max-height: 40px;
+}
+#home-search .form-control {
+    font-size: 1.5em;
+    text-align: center;
+}
+.card-description {
+  line-height: 1.3em;
+  font-size: 1em;
+}
